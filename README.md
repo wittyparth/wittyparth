@@ -67,7 +67,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/wittyparth/wittyparth/output/github-snake.svg" />
 </picture>
 
-<!-- <img src="https://raw.githubusercontent.com/wittyparth/wittyparth/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
