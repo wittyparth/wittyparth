@@ -1,12 +1,4 @@
-## Hi there 👋
-
-**wittyparth/wittyparth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 <h3 align="left">🔭 I’m currently working on building Full stack AI web applications<br>👯 I’m looking to collaborate on developing creating unique apps with AI<br>🤝 I’m looking for help with getting deeper understanding on ML and AI<br>🌱 I’m currently learning Langchain and DevOps<br>💬 Ask me about Web and AI</h3>
 
@@ -84,4 +76,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+
 
